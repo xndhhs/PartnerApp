@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PartnerApp</string>
+    <string name="name">"Name: "</string>
+    <string name="description">"Description: "</string>
+    <string name="server_error">Server Error!</string>
+    <string name="try_again">Try Again</string>
+    <string name="rating">Rating: %s</string>
+</resources>
