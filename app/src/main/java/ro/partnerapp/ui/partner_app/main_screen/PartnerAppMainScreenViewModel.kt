@@ -36,7 +36,6 @@ class PartnerAppMainScreenViewModel(
                     partners = it.value
                 )
             }
-            println(ratingsList)
             if (partnerList.isEmpty()) {
                 uiState.update { currentState ->
                     currentState.copy(
